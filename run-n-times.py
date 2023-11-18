@@ -3,6 +3,7 @@ import os
 import sys
 import traceback
 
+# Remove this line when adding this script to your automatic-1111 installation
 sys.path.append("automatic-1111")
 
 import modules.scripts as scripts
