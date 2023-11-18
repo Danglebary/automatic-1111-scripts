@@ -1,6 +1,6 @@
 # Automatic-1111 Scripts
 
-A collection of scripts to extend the functionality of [Automatic-1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui).
+A collection of scripts to extend the functionality of [Automatic-1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
 ## Installation
 
