@@ -10,8 +10,9 @@ A collection of scripts to extend the functionality of [Automatic-1111/stable-di
 ## Development
 
 1. Clone this repository.
-2. Create a new folder `automatic-1111` in the root of this repository.
-3. Clone the [Automatic-1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) repo into the `automatic-1111` folder.
-4. Run `pip install -r requirements.txt` to install the dependencies.
-5. Create your new script in the root of this project.
-6. For type hints to work in your new script, you need to add this line to the top of your script: `sys.path.append("automatic-1111")`.
+2. Run the following command to bootstrap the project:
+   ```bash
+   sh setup.sh
+   ```
+3. Create your new script in the root of this project.
+4. For type hints to work in your new script, you need to add this line to the top of your script: `sys.path.append("automatic-1111")`.
